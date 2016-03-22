@@ -19,4 +19,6 @@ A define sets the number of animation cycles between a min and max, randomly sel
 
 Then default result is a pair of eyes, which "wake up", looking around and blinking randomly, then "close" and the unit goes back to sleep.
 
+See the <a href="https://learn.adafruit.com/trinket-slash-gemma-space-invader-pendant?view=all
+">Adafruit tutorial for construction details</a>, and <a href="https://www.youtube.com/watch?v=iAIfBcEAuHc">this video for how to solder the backpacks</a>. 
 
