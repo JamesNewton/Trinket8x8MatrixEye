@@ -1,6 +1,8 @@
 # Trinket8x8MatrixEye
 
-An Arduino sketch for the Adafruit.com Trinket (not pro) to drive 1 or 2 8x8 LED matrix displays with an admination and a sprite. The sample provided is an "eye" that blinks and looks around.
+An Arduino sketch for the Adafruit.com Trinket (not pro) to drive 1 or 2 8x8 LED matrix displays with an admination and a sprite. The sample provided is an "eye" that blinks and looks around. 
+
+https://www.youtube.com/watch?v=gGCaZEEb3us
 
 Based on:
 https://learn.adafruit.com/trinket-slash-gemma-space-invader-pendant?view=all
